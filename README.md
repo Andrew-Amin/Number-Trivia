@@ -3,7 +3,7 @@
 A new Flutter project for dispalying a Tivia for concrete number or date using [Numbers API]:[link](http://numbersapi.com/) , designed with TDD.
 
 **Packages we are using:**
-- flutter_bloc:[link](https://pub.dev/packages/flutter_bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - shared_preferences:[link](https://pub.dev/packages/shared_preferences)
 - dartz:[link](https://pub.dev/packages/dartz)
 - equatable:[link](https://pub.dev/packages/equatable)
